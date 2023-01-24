@@ -1,2 +1,3 @@
-# club_house
-a chat system for users 
+# express template
+folk to make work easy and exclude cli command `expres`
+
