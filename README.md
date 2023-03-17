@@ -13,5 +13,12 @@ User security was structured on passport local strategy and jwt, and developer c
 data structure was writen with mongosse to integrate mongodb, so any future user must have good knowledge on mongosse query syntax, you dont really need indept knowledge of mongodb to get stated on your project 
 
 
+### env
+
+create a dot env file and include al this details with yours
+DEV_DB = ""
+CLOUD_NAME = "
+API_KEY = ""
+API_SECRET = ""
 
 
